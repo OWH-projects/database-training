@@ -1,6 +1,11 @@
 # database-training
 brownbag session on databases
 
+# Brass tacks
+- Lots of different database managers
+- Most are free. 
+- Actual way you use stays the same
+
 # What is a database?
 - How is that different than a spreadsheet?
 - De facto backend for any online form system
